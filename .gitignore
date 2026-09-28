@@ -1,0 +1,8 @@
+# Directorio de dependencias de Node
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Archivos comprimidos
+*.rar
